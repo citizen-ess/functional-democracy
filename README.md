@@ -10,7 +10,7 @@ What follows is a proposal for a political system called, “Functional Democrac
 The creation of the Functional Democratic system is motivated by the following observations:
 
 * The current state of U.S. politics is chaotic.  
-* The U.S. political system is poorly structured around political parties that are useless beyond bifurcating a handful hot-button issues at the forefront of current zeitgeist.
+* The U.S. political system is poorly structured around political parties that primarily divide the populace on a handful hot-button issues at the forefront of the current zeitgeist.
 * Even with a hypothetical cooperative congress, members of congress operate well beyond their areas of knowledge for the majority of issues they legislate on.  
 * Expertise makes for an unpleasant social bludgeon (being told you’re wrong or ignorant and to trust the experts doesn’t feel good), but our daily lives comfortably revolve around non politicized expertise.  
   * E.g. If you need a surgery, see a surgeon; if your house is on fire, call a firefighter, etc.
