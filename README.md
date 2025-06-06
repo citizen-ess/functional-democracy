@@ -18,7 +18,7 @@ The creation of the Functional Democratic system is motivated by the following o
 ---
 
 **The Proposal:**  
-The U.S. executive branch consists of a group of departments that serve to advise the President called the Executive Cabinet. These departments are associated with various concerns of the American populace (e.g. department of transportation, department of energy, department of agriculture, etc.) and they also deal with the implementation and enforcement of the laws passed by congress. I propose that the following departments should be added to the cabinet or modified:
+The U.S. executive branch consists of a group of departments that serve to advise the President called the Executive Cabinet. These departments are associated with various concerns of the American populace such as transportation, energy, agriculture, and so on. They also deal with the implementation and enforcement of the laws passed by congress. I propose that the following departments should be added to the cabinet or modified:
 
 * Department of Technology (new)  
   * Governs laws focused on the usage, creation, sale, and distribution of technology (Software and Hardware involving microprocessors, integrated circuits, computers, internet, etc.)  
