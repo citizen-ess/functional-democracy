@@ -2,7 +2,7 @@
 ---
 
 **Intro:**  
-What follows is a proposal for a political system called, “Functional Democracy.” It is a modification of the current U.S. political system that breaks the legislative branch into more granular legislative domains instead of the usual electoral changes (ranked choice voting, open primaries, etc.)
+What follows is a proposal for a political system called, Functional Democracy. It is a modification of the current U.S. political system that breaks the legislative branch into more granular legislative domains instead of the usual electoral changes (ranked choice voting, open primaries, etc.)
 
 ---
 
@@ -37,8 +37,7 @@ The U.S. executive branch consists of a group of departments that serve to advis
 All departments should then be transformed into elected committees with the purpose of writing legislation that falls within their respective domains. These committees are to be created with the following stipulations: 
 
 1. There is one member per committee, per state with a single six year term.  
-   1. Congress to determine a process allowing the delegation committee to expand membership
-   2. All states must must maintain an equal number of members even after member expansion expansion.
+   2. Should membership need to expand, all states must must maintain an equal number of members.
 
 2. No member can take a party name or campaign around a party name.  
    1. A member’s formal title is to be “Representative” when speaking generally or “Representative of \[Committee name\]” (e.g. Representative of Agriculture) when speaking specifically.  
@@ -46,9 +45,8 @@ All departments should then be transformed into elected committees with the purp
    3. I acknowledge that there are ways to get around this stipulation, but I leave it purely for its symbolic significance.
 
 3. An elected official must have a background, be it professional or academic, related to the department he/she intends to run for.  
-   1. Congress to determine appropriate qualifications for each group.  
-   2. Congress to generate a mechanism for updating the qualifications list.  
-   3. Congress to generate a mechanism allowing citizens to run as committee candidates using demonstrable experience as a substitute for official professional or academic requirements.
+   1. A process must be created for updating the qualifications list.  
+   3. A process must be created to allow citizens to run as committee candidates using demonstrable experience as a substitute for official professional or academic requirements.
 
 4. Members cannot have served as executives (C-suite, VPs, Directors, etc.) or board members for any publicly traded companies, nor can they do so after holding office.
 
@@ -59,9 +57,9 @@ All departments should then be transformed into elected committees with the purp
 
 7. Laws intended to be passed by these committees are presented to the Delegation committee for review instead of going through the House and Senate.  
    1. The Delegation committee will determine whether the law is within the scope of one or more committees.   
-   2. After review, the law must be voted on by members of every relevant committee, or the House and Senate if no committees are deemed appropriate.  
+   2. After review, the law must be voted on by members of every relevant committee or the House and Senate if no committees are deemed appropriate.  
    3. The president signs bills into law after a successful committee vote.  
-   4. Congress to develop a process that allows the Delegation committee members to review incoming bills in parallel.  
+   4. The delegation committee follows a process that allows its members to work in parallel to review bills.  
       1. For example, every month, members are broken into random pairs that form a team.  
       2. Each team is assigned separate bills from the other committees for review, and team members internally determine scope.
 
@@ -69,7 +67,7 @@ All departments should then be transformed into elected committees with the purp
 
 9. Each committee will elect its own leader to take the role of presidential adviser.
 
-10. If a state does not have any candidates that would qualify for membership of a given body, any citizen that qualifies to run for the Senate for that state can run as a special member which will have half the voting power of a normal member.
+10. If a state does not have any candidates that qualify for membership of a given body, any citizen that qualifies to run for the Senate for that state can run as a special member which will have half the voting power of a normal member.
 
 11. Additional amendments to the constitution will remain within the domain of the original House and Senate and will not involve the newly created legislative bodies.
 
