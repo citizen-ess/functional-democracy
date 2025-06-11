@@ -2,7 +2,7 @@
 ---
 
 **Intro:**  
-What follows is a proposal for a political system called, Functional Democracy. It is a modification of the current U.S. political system that breaks the legislative branch into more granular legislative domains instead of the usual electoral changes (ranked choice voting, open primaries, etc.)
+What follows is a proposal for a political system called, Functional Democracy. It is a modification of the current U.S. political system that breaks the legislative branch into more granular legislative domains.
 
 ---
 
@@ -10,7 +10,7 @@ What follows is a proposal for a political system called, Functional Democracy. 
 The creation of the Functional Democratic system is motivated by the following observations:
 
 * The current state of U.S. politics is chaotic.  
-* The U.S. political system is poorly structured around political parties that primarily divide the populace on a handful hot-button issues at the forefront of the current zeitgeist.
+* The U.S. political system is poorly structured around political parties that primarily divide the populace on a handful hot-button.
 * Even with a hypothetical cooperative congress, members of congress operate well beyond their areas of knowledge for the majority of issues they legislate on.  
 * Expertise makes for an unpleasant social bludgeon (being told you’re wrong or ignorant and to trust the experts doesn’t feel good), but our daily lives comfortably revolve around non politicized expertise.  
   * E.g. If you need a surgery, see a surgeon; if your house is on fire, call a firefighter, etc.
@@ -24,7 +24,7 @@ The U.S. executive branch consists of a group of departments that serve to advis
   * Governs laws focused on the usage, creation, sale, and distribution of technology (Software and Hardware involving microprocessors, integrated circuits, computers, internet, etc.)  
 * Department of Science, Research, and Development (new)  
   * Governs ethics and rules for R\&D; governs public data provisioning; appoints members of various research departments;
-  * Alternatively, elevate the Office of Science and Technology Policy and include the above in its scope.  
+  * Alternatively, elevate the Office of Science and Technology Policy and include the above bullet point in its scope.  
 * Department of Delegation (new)  
   * Does not make laws; litigates any scope concerns raised by the new legislative branches.  
   * See point 7 below for more details.   
@@ -37,7 +37,7 @@ The U.S. executive branch consists of a group of departments that serve to advis
 All departments should then be transformed into elected committees with the purpose of writing legislation that falls within their respective domains. These committees are to be created with the following stipulations: 
 
 1. There is one member per committee, per state with a single six year term.  
-   2. Should membership need to expand, all states must must maintain an equal number of members.
+   1. Should membership need to expand, all states must must maintain an equal number of members.
 
 2. No member can take a party name or campaign around a party name.  
    1. A member’s formal title is to be “Representative” when speaking generally or “Representative of \[Committee name\]” (e.g. Representative of Agriculture) when speaking specifically.  
@@ -46,14 +46,13 @@ All departments should then be transformed into elected committees with the purp
 
 3. An elected official must have a background, be it professional or academic, related to the department he/she intends to run for.  
    1. A process must be created for updating the qualifications list.  
-   3. A process must be created to allow citizens to run as committee candidates using demonstrable experience as a substitute for official professional or academic requirements.
 
-4. Members cannot have served as executives (C-suite, VPs, Directors, etc.) or board members for any publicly traded companies, nor can they do so after holding office.
+4. Members cannot have served as executives (C-suite, VPs, Directors, etc.) or board members for any corporations, nor can they do so after holding office.
 
 5. Upon creation of this system, all new legislative committees are to be evaluated by the House and Senate to define their area of governance.  
    1. Additionally committees should be merged or split where appropriate.
 
-6. Each new legislative committee can generate a enforcement division under it to take the role of the current executive departments.
+6. Each new legislative committee can generate an enforcement division under it to take the role of the current executive departments.
 
 7. Laws intended to be passed by these committees are presented to the Delegation committee for review instead of going through the House and Senate.  
    1. The Delegation committee will determine whether the law is within the scope of one or more committees.   
@@ -61,7 +60,7 @@ All departments should then be transformed into elected committees with the purp
    3. The president signs bills into law after a successful committee vote.  
    4. The delegation committee follows a process that allows its members to work in parallel to review bills.  
       1. For example, every month, members are broken into random pairs that form a team.  
-      2. Each team is assigned separate bills from the other committees for review, and team members internally determine scope.
+      2. Each team is assigned separate bills from the other committees for review.
 
 8. The House of Representatives and the Senate will address laws that do not fall under the scope of the new governing bodies.
 
